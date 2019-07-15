@@ -1,0 +1,87 @@
+{
+	"id": "123abc",
+	"name": "Parking Lucerito",
+	"location":{
+		"latitude": 6.2400174,
+		"longitude": -75.5789606
+	},
+	"address": "Street Fake 123",
+	"buildingInsideOf": "C.c. Fake",
+	"phone": "4556841",
+	"cellPhone": "3104571041",
+	"logo": "https://seeklogo.com/images/P/parking-traffic-sign-logo-0ADF11FCE3-seeklogo.com.gif",
+	"images":[],
+	"timeTable":[{
+		"weekDay": 1,
+		"startTime": "8:20",
+		"endTime": "18:30"
+	},{
+		"weekDay": 2,
+		"startTime": "8:20",
+		"endTime": "18:30"
+	},{
+		"weekDay": 3,
+		"startTime": "8:20",
+		"endTime": "18:30"
+	},{
+		"weekDay": 4,
+		"startTime": "8:20",
+		"endTime": "18:30"
+	},{
+		"weekDay": 5,
+		"startTime": "8:20",
+		"endTime": "18:30"
+	},{
+		"weekDay": 6,
+		"startTime": "8:20",
+		"endTime": "15:00"
+	},{
+		"weekDay": 7,
+		"startTime": "8:20",
+		"endTime": "12:30"
+	},{
+		"weekDay": 8,
+		"startTime": "8:20",
+		"endTime": "12:30"
+	}],
+	"is24_7": false,
+	"vehicles": [{
+		"vehicelType": 1,
+		"charge": [{
+			"timeUnit": 1,
+			"cost": 200
+		},{
+			"timeUnit": 2,
+			"cost": 1000
+		},{
+			"timeUnit": 3,
+			"cost": 2000
+		},{
+			"timeUnit": 4,
+			"cost": 10000
+		}]
+	},{
+		"vehicelType": 2,
+		"charge": [{
+			"timeUnit": 1,
+			"cost": 100
+		},{
+			"timeUnit": 2,
+			"cost": 500
+		},{
+			"timeUnit": 3,
+			"cost": 1000
+		},{
+			"timeUnit": 4,
+			"cost": 5000
+		}]
+	}],
+	"services": [],
+	"hasMonthlyFee": false,
+	"isTaken": false,
+	"rating": 3.8,
+	"parkingType": 1,
+	"roofType": 2,
+	"isFavorite": false,
+	"reviews": []
+}
