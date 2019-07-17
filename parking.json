@@ -13,36 +13,52 @@
 	"images":[],
 	"timeTable":[{
 		"weekDay": 1,
-		"startTime": "8:20",
-		"endTime": "18:30"
+		"times": [{
+			"startTime": "8:20",
+			"endTime": "18:30"
+		}]
 	},{
 		"weekDay": 2,
-		"startTime": "8:20",
-		"endTime": "18:30"
+		"times": [{
+			"startTime": "8:20",
+			"endTime": "18:30"
+		}]
 	},{
 		"weekDay": 3,
-		"startTime": "8:20",
-		"endTime": "18:30"
+		"times": [{
+			"startTime": "8:20",
+			"endTime": "18:30"
+		}]
 	},{
 		"weekDay": 4,
-		"startTime": "8:20",
-		"endTime": "18:30"
+		"times": [{
+			"startTime": "8:20",
+			"endTime": "18:30"
+		}]
 	},{
 		"weekDay": 5,
-		"startTime": "8:20",
-		"endTime": "18:30"
+		"times": [{
+			"startTime": "8:20",
+			"endTime": "18:30"
+		}]
 	},{
 		"weekDay": 6,
-		"startTime": "8:20",
-		"endTime": "15:00"
+		"times": [{
+			"startTime": "8:20",
+			"endTime": "15:00"
+		}]
 	},{
 		"weekDay": 7,
-		"startTime": "8:20",
-		"endTime": "12:30"
+		"times": [{
+			"startTime": "8:20",
+			"endTime": "12:30"
+		}]
 	},{
 		"weekDay": 8,
-		"startTime": "8:20",
-		"endTime": "12:30"
+		"times": [{
+			"startTime": "8:20",
+			"endTime": "12:30"
+		}]
 	}],
 	"is24_7": false,
 	"vehicles": [{
@@ -77,7 +93,7 @@
 		}]
 	}],
 	"services": [],
-	"hasMonthlyFee": false,
+	"canBeEdited": false,
 	"isTaken": false,
 	"rating": 3.8,
 	"parkingType": 1,
