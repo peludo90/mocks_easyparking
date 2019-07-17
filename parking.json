@@ -9,6 +9,7 @@
 	"buildingInsideOf": "C.c. Fake",
 	"phone": "4556841",
 	"cellPhone": "3104571041",
+	"details": "Some extra information",
 	"logo": "https://via.placeholder.com/300",
 	"images":[],
 	"timeTable":[{

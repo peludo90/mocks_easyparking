@@ -10,6 +10,7 @@
 		"buildingInsideOf": "C.c. Fake",
 		"phone": "4556841",
 		"cellPhone": "3104571041",
+		"details": "Some extra information",
 		"logo": "https://via.placeholder.com/300",
 		"images":[],
 		"timeTable":[{
@@ -111,6 +112,7 @@
 		"address": "Anohter address",
 		"phone": "4556841",
 		"cellPhone": "3104571041",
+		"details": "Some extra information",
 		"images":[],
 		"timeTable":[{
 			"weekDay": 1,
@@ -394,8 +396,8 @@
 		"isFavorite": false,
 		"reviews": []
 	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
+		"id": "123abasdasc",
+		"name": "Parking Lucerito #2",
 		"location":{
 			"latitude": 6.23475,
 			"longitude": -75.5989759
@@ -490,6 +492,7 @@
 		},
 		"address": "Street Fake 123",
 		"cellPhone": "3104571041",
+		"details": "No abrimos martes despues de lunes festivo",
 		"images":[],
 		"timeTable":[],
 		"is24_7": true,
@@ -521,11 +524,11 @@
 		"isFavorite": false,
 		"reviews": []
 	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
+		"id": "123afdgdfgc",
+		"name": "Parque de Envigado",
 		"location":{
-			"latitude": 6.2400174,
-			"longitude": -75.5789606
+			"latitude": 6.1743098,
+			"longitude": -75.5684399
 		},
 		"address": "Street Fake 123",
 		"buildingInsideOf": "C.c. Fake",
@@ -533,107 +536,42 @@
 		"cellPhone": "3104571041",
 		"logo": "https://via.placeholder.com/300",
 		"images":[],
-		"timeTable":[{
-			"weekDay": 1,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 2,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 3,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 4,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 5,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 6,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "15:00"
-			}]
-		},{
-			"weekDay": 7,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "12:30"
-			}]
-		},{
-			"weekDay": 8,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "12:30"
-			}]
-		}],
 		"is24_7": false,
 		"vehicles": [{
 			"vehicelType": 1,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 200
-			},{
-				"timeUnit": 2,
-				"cost": 1000
-			},{
-				"timeUnit": 3,
-				"cost": 2000
+				"timeUnit": 5,
+				"cost": 20000
 			},{
 				"timeUnit": 4,
-				"cost": 10000
+				"cost": 5000
 			}]
 		},{
 			"vehicelType": 2,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 100
-			},{
-				"timeUnit": 2,
-				"cost": 500
-			},{
-				"timeUnit": 3,
-				"cost": 1000
+				"timeUnit": 5,
+				"cost": 10000
 			},{
 				"timeUnit": 4,
-				"cost": 5000
+				"cost": 1000
 			}]
 		}],
 		"services": [],
 		"canBeEdited": false,
 		"isTaken": false,
-		"rating": 3.8,
-		"parkingType": 1,
+		"rating": 3.7,
+		"parkingType": 4,
 		"roofType": 2,
 		"isFavorite": false,
 		"reviews": []
 	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
+		"id": "3456tyrw",
+		"name": "Esquina de itagüí",
 		"location":{
-			"latitude": 6.2400174,
-			"longitude": -75.5789606
+			"latitude": 6.1743098,
+			"longitude": -75.5684399
 		},
-		"address": "Street Fake 123",
-		"buildingInsideOf": "C.c. Fake",
-		"phone": "4556841",
-		"cellPhone": "3104571041",
-		"logo": "https://via.placeholder.com/300",
+		"details": "No se abre el 25 de diciembre ni el primero de enero",
 		"images":[],
 		"timeTable":[{
 			"weekDay": 1,
@@ -688,54 +626,37 @@
 		"vehicles": [{
 			"vehicelType": 1,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 200
-			},{
-				"timeUnit": 2,
-				"cost": 1000
-			},{
 				"timeUnit": 3,
 				"cost": 2000
-			},{
-				"timeUnit": 4,
-				"cost": 10000
 			}]
 		},{
 			"vehicelType": 2,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 100
-			},{
-				"timeUnit": 2,
-				"cost": 500
-			},{
+				"timeUnit": 3,
+				"cost": 1500
+			}]
+		},{
+			"vehicelType": 3,
+			"charge": [{
 				"timeUnit": 3,
 				"cost": 1000
-			},{
-				"timeUnit": 4,
-				"cost": 5000
 			}]
 		}],
-		"services": [],
 		"canBeEdited": false,
 		"isTaken": false,
 		"rating": 3.8,
 		"parkingType": 1,
-		"roofType": 2,
+		"roofType": 1,
 		"isFavorite": false,
 		"reviews": []
 	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
+		"id": "1923abc",
 		"location":{
-			"latitude": 6.2400174,
-			"longitude": -75.5789606
+			"latitude": 6.1743098,
+			"longitude": -75.5684399
 		},
-		"address": "Street Fake 123",
-		"buildingInsideOf": "C.c. Fake",
 		"phone": "4556841",
 		"cellPhone": "3104571041",
-		"logo": "https://via.placeholder.com/300",
 		"images":[],
 		"timeTable":[{
 			"weekDay": 1,
@@ -788,34 +709,13 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
+			"vehicelType": 4,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 200
-			},{
-				"timeUnit": 2,
-				"cost": 1000
-			},{
 				"timeUnit": 3,
-				"cost": 2000
+				"cost": 600
 			},{
-				"timeUnit": 4,
-				"cost": 10000
-			}]
-		},{
-			"vehicelType": 2,
-			"charge": [{
-				"timeUnit": 1,
-				"cost": 100
-			},{
-				"timeUnit": 2,
-				"cost": 500
-			},{
-				"timeUnit": 3,
-				"cost": 1000
-			},{
-				"timeUnit": 4,
-				"cost": 5000
+				"timeUnit": 5,
+				"cost": 30000
 			}]
 		}],
 		"services": [],
@@ -823,68 +723,59 @@
 		"isTaken": false,
 		"rating": 3.8,
 		"parkingType": 1,
-		"roofType": 2,
+		"roofType": 3,
 		"isFavorite": false,
 		"reviews": []
 	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
+		"id": "1292gbc",
+		"name": "Estrellita",
 		"location":{
-			"latitude": 6.2400174,
-			"longitude": -75.5789606
+			"latitude": 6.1674931,
+			"longitude": -75.5870814
 		},
-		"address": "Street Fake 123",
-		"buildingInsideOf": "C.c. Fake",
+		"address": "After kilometro 15 Fake 123",
 		"phone": "4556841",
-		"cellPhone": "3104571041",
-		"logo": "https://via.placeholder.com/300",
 		"images":[],
 		"timeTable":[{
 			"weekDay": 1,
 			"times": [{
-				"startTime": "8:20",
+				"startTime": "6:20",
 				"endTime": "18:30"
 			}]
 		},{
 			"weekDay": 2,
 			"times": [{
-				"startTime": "8:20",
+				"startTime": "6:20",
 				"endTime": "18:30"
 			}]
 		},{
 			"weekDay": 3,
 			"times": [{
-				"startTime": "8:20",
+				"startTime": "6:20",
 				"endTime": "18:30"
 			}]
 		},{
 			"weekDay": 4,
 			"times": [{
-				"startTime": "8:20",
+				"startTime": "6:20",
 				"endTime": "18:30"
 			}]
 		},{
 			"weekDay": 5,
 			"times": [{
-				"startTime": "8:20",
+				"startTime": "6:20",
 				"endTime": "18:30"
 			}]
 		},{
 			"weekDay": 6,
 			"times": [{
-				"startTime": "8:20",
+				"startTime": "6:20",
 				"endTime": "15:00"
 			}]
 		},{
 			"weekDay": 7,
 			"times": [{
-				"startTime": "8:20",
-				"endTime": "12:30"
-			}]
-		},{
-			"weekDay": 8,
-			"times": [{
-				"startTime": "8:20",
+				"startTime": "6:20",
 				"endTime": "12:30"
 			}]
 		}],
@@ -892,27 +783,15 @@
 		"vehicles": [{
 			"vehicelType": 1,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 200
-			},{
-				"timeUnit": 2,
-				"cost": 1000
-			},{
 				"timeUnit": 3,
-				"cost": 2000
+				"cost": 3000
 			},{
-				"timeUnit": 4,
-				"cost": 10000
+				"timeUnit": 5,
+				"cost": 50000
 			}]
 		},{
 			"vehicelType": 2,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 100
-			},{
-				"timeUnit": 2,
-				"cost": 500
-			},{
 				"timeUnit": 3,
 				"cost": 1000
 			},{
@@ -924,36 +803,23 @@
 		"canBeEdited": false,
 		"isTaken": false,
 		"rating": 3.8,
-		"parkingType": 1,
-		"roofType": 2,
+		"parkingType": 3,
+		"roofType": 3,
 		"isFavorite": false,
 		"reviews": []
 	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
+		"id": "abc-24f",
+		"name": "Parking #10",
 		"location":{
-			"latitude": 6.2400174,
-			"longitude": -75.5789606
+			"latitude": 6.1648037,
+			"longitude": -75.5840305
 		},
-		"address": "Street Fake 123",
-		"buildingInsideOf": "C.c. Fake",
+		"address": "Carrera 20 # 12 - 14",
 		"phone": "4556841",
 		"cellPhone": "3104571041",
 		"logo": "https://via.placeholder.com/300",
 		"images":[],
 		"timeTable":[{
-			"weekDay": 1,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 2,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
 			"weekDay": 3,
 			"times": [{
 				"startTime": "8:20",
@@ -994,12 +860,6 @@
 		"vehicles": [{
 			"vehicelType": 1,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 200
-			},{
-				"timeUnit": 2,
-				"cost": 1000
-			},{
 				"timeUnit": 3,
 				"cost": 2000
 			},{
@@ -1009,15 +869,6 @@
 		},{
 			"vehicelType": 2,
 			"charge": [{
-				"timeUnit": 1,
-				"cost": 100
-			},{
-				"timeUnit": 2,
-				"cost": 500
-			},{
-				"timeUnit": 3,
-				"cost": 1000
-			},{
 				"timeUnit": 4,
 				"cost": 5000
 			}]
@@ -1025,20 +876,14 @@
 		"services": [],
 		"canBeEdited": false,
 		"isTaken": false,
-		"rating": 3.8,
-		"parkingType": 1,
-		"roofType": 2,
 		"isFavorite": false,
 		"reviews": []
 	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
+		"id": "12563yuc",
 		"location":{
-			"latitude": 6.2400174,
-			"longitude": -75.5789606
+			"latitude": 6.2727815,
+			"longitude": -75.5510267
 		},
-		"address": "Street Fake 123",
-		"buildingInsideOf": "C.c. Fake",
 		"phone": "4556841",
 		"cellPhone": "3104571041",
 		"logo": "https://via.placeholder.com/300",
@@ -1124,217 +969,109 @@
 				"cost": 5000
 			}]
 		}],
+		"canBeEdited": false,
+		"isTaken": false
+	},{
+		"id": "346ss",
+		"name": "CASTILLA",
+		"location":{
+			"latitude": 6.2727815,
+			"longitude": -75.5510267
+		},
+		"address": "Street Fake 123",
+		"cellPhone": "3104571041",
+		"logo": "https://via.placeholder.com/300",
+		"images":[],
+		"is24_7": true,
+		"vehicles": [{
+			"vehicelType": 1,
+			"charge": [{
+				"timeUnit": 3,
+				"cost": 2000
+			},{
+				"timeUnit": 4,
+				"cost": 10000
+			},{
+				"timeUnit": 5,
+				"cost": 50000
+			},{
+				"timeUnit": 6,
+				"cost": 100000
+			},{
+				"timeUnit": 7,
+				"cost": 800000
+			}]
+		},{
+			"vehicelType": 2,
+			"charge": [{
+				"timeUnit": 3,
+				"cost": 1000
+			},{
+				"timeUnit": 4,
+				"cost": 5000
+			},{
+				"timeUnit": 5,
+				"cost": 25000
+			},{
+				"timeUnit": 6,
+				"cost": 50000
+			},{
+				"timeUnit": 7,
+				"cost": 400000
+			}]
+		},{
+			"vehicelType": 3,
+			"charge": [{
+				"timeUnit": 3,
+				"cost": 1000
+			},{
+				"timeUnit": 4,
+				"cost": 5000
+			},{
+				"timeUnit": 5,
+				"cost": 25000
+			},{
+				"timeUnit": 6,
+				"cost": 50000
+			},{
+				"timeUnit": 7,
+				"cost": 400000
+			}]
+		},{
+			"vehicelType": 4,
+			"charge": [{
+				"timeUnit": 3,
+				"cost": 3000
+			},{
+				"timeUnit": 4,
+				"cost": 15000
+			},{
+				"timeUnit": 5,
+				"cost": 75000
+			},{
+				"timeUnit": 6,
+				"cost": 150000
+			},{
+				"timeUnit": 7,
+				"cost": 12000000
+			}]
+		}],
 		"services": [],
 		"canBeEdited": false,
 		"isTaken": false,
-		"rating": 3.8,
-		"parkingType": 1,
-		"roofType": 2,
+		"rating": 4.2,
+		"parkingType": 2,
+		"roofType": 3,
 		"isFavorite": false,
 		"reviews": []
 	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
+		"id": "123awebc",
 		"location":{
-			"latitude": 6.2400174,
-			"longitude": -75.5789606
+			"latitude": 6.327374,
+			"longitude": -75.5364952
 		},
-		"address": "Street Fake 123",
-		"buildingInsideOf": "C.c. Fake",
-		"phone": "4556841",
-		"cellPhone": "3104571041",
-		"logo": "https://via.placeholder.com/300",
-		"images":[],
-		"timeTable":[{
-			"weekDay": 1,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 2,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 3,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 4,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 5,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 6,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "15:00"
-			}]
-		},{
-			"weekDay": 7,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "12:30"
-			}]
-		},{
-			"weekDay": 8,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "12:30"
-			}]
-		}],
 		"is24_7": false,
-		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
-				"timeUnit": 1,
-				"cost": 200
-			},{
-				"timeUnit": 2,
-				"cost": 1000
-			},{
-				"timeUnit": 3,
-				"cost": 2000
-			},{
-				"timeUnit": 4,
-				"cost": 10000
-			}]
-		},{
-			"vehicelType": 2,
-			"charge": [{
-				"timeUnit": 1,
-				"cost": 100
-			},{
-				"timeUnit": 2,
-				"cost": 500
-			},{
-				"timeUnit": 3,
-				"cost": 1000
-			},{
-				"timeUnit": 4,
-				"cost": 5000
-			}]
-		}],
-		"services": [],
 		"canBeEdited": false,
-		"isTaken": false,
-		"rating": 3.8,
-		"parkingType": 1,
-		"roofType": 2,
-		"isFavorite": false,
-		"reviews": []
-	},{
-		"id": "123abc",
-		"name": "Parking Lucerito",
-		"location":{
-			"latitude": 6.2400174,
-			"longitude": -75.5789606
-		},
-		"address": "Street Fake 123",
-		"buildingInsideOf": "C.c. Fake",
-		"phone": "4556841",
-		"cellPhone": "3104571041",
-		"logo": "https://via.placeholder.com/300",
-		"images":[],
-		"timeTable":[{
-			"weekDay": 1,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 2,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 3,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 4,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 5,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "18:30"
-			}]
-		},{
-			"weekDay": 6,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "15:00"
-			}]
-		},{
-			"weekDay": 7,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "12:30"
-			}]
-		},{
-			"weekDay": 8,
-			"times": [{
-				"startTime": "8:20",
-				"endTime": "12:30"
-			}]
-		}],
-		"is24_7": false,
-		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
-				"timeUnit": 1,
-				"cost": 200
-			},{
-				"timeUnit": 2,
-				"cost": 1000
-			},{
-				"timeUnit": 3,
-				"cost": 2000
-			},{
-				"timeUnit": 4,
-				"cost": 10000
-			}]
-		},{
-			"vehicelType": 2,
-			"charge": [{
-				"timeUnit": 1,
-				"cost": 100
-			},{
-				"timeUnit": 2,
-				"cost": 500
-			},{
-				"timeUnit": 3,
-				"cost": 1000
-			},{
-				"timeUnit": 4,
-				"cost": 5000
-			}]
-		}],
-		"services": [],
-		"canBeEdited": false,
-		"isTaken": false,
-		"rating": 3.8,
-		"parkingType": 1,
-		"roofType": 2,
-		"isFavorite": false,
-		"reviews": []
+		"isTaken": false
 	}]
 }
