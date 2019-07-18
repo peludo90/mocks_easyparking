@@ -1,0 +1,88 @@
+{
+	"services": [{
+		"id": 1,
+		"en": "Bathrooms",
+		"es": "Baños",
+		"vehicles": ""
+	},{
+		"id": 2,
+		"en": "Priority cells for drivers with reduced mobility",
+		"es": "Celdas prioritarias para conductores con movilidad reducida",
+		"vehicles": ""
+	},{
+		"id": 3,
+		"en": "Access for people with reduced mobility",
+		"es": "Acceso para personas con movilidad reducida",
+		"vehicles": ""
+	}{
+		"id": 4,
+		"en": "Keeping keys optionally",
+		"es": "Guardan llaves opcionalmente",
+		"vehicles": ""
+	},{
+		"id": 5,
+		"en": "Monthly payment",
+		"es": "Mensualidad",
+		"vehicles": ""
+	},,{
+		"id": 6,
+		"en": "Car wash",
+		"es": "Lavado de autos",
+		"vehicles": "1"
+	},{
+		"id": 7,
+		"en": "Motorcycle wash",
+		"es": "Lavado d motos",
+		"vehicles": "2"
+	},{
+		"id": 8,
+		"en": "Heavy vehicles wash",
+		"es": "Lavado de vehículos pesados",
+		"vehicles": "14"
+	},{
+		"id": 9,
+		"en": "Car workshop",
+		"es": "Taller de carros",
+		"vehicles": "14"
+	},{
+		"id": 10,
+		"en": "Motorcycle workshop",
+		"es": "Taller de motos",
+		"vehicles": "2"
+	},{
+		"id": 11,
+		"en": "Bicycle workshop",
+		"es": "Taller de bicicletas",
+		"vehicles": "3"
+	},{
+		"id": 12,
+		"en": "Keeping helmets optionally",
+		"es": "Guardan cascos opcionalmente",
+		"vehicles": "23"
+	},{
+		"id": 13,
+		"en": "Security system and cams",
+		"es": "Sistema de seguridad y cámaras",
+		"vehicles": ""
+	},{
+		"id": ,
+		"en": "",
+		"es": "",
+		"vehicles": ""
+	},{
+		"id": ,
+		"en": "",
+		"es": "",
+		"vehicles": ""
+	},{
+		"id": ,
+		"en": "",
+		"es": "",
+		"vehicles": ""
+	},{
+		"id": ,
+		"en": "",
+		"es": "",
+		"vehicles": ""
+	}]
+}
