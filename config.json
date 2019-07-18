@@ -14,7 +14,7 @@
 		"en": "Access for people with reduced mobility",
 		"es": "Acceso para personas con movilidad reducida",
 		"vehicles": ""
-	}{
+	},{
 		"id": 4,
 		"en": "Keeping keys optionally",
 		"es": "Guardan llaves opcionalmente",
@@ -24,7 +24,7 @@
 		"en": "Monthly payment",
 		"es": "Mensualidad",
 		"vehicles": ""
-	},,{
+	},{
 		"id": 6,
 		"en": "Car wash",
 		"es": "Lavado de autos",
@@ -65,24 +65,19 @@
 		"es": "Sistema de seguridad y cámaras",
 		"vehicles": ""
 	},{
-		"id": ,
-		"en": "",
-		"es": "",
+		"id": 14,
+		"en": "Vallet parking",
+		"es": "Vallet parking",
 		"vehicles": ""
 	},{
-		"id": ,
-		"en": "",
-		"es": "",
+		"id": 15,
+		"en": "Credit card payment",
+		"es": "Pago con tarjeta",
 		"vehicles": ""
 	},{
-		"id": ,
-		"en": "",
-		"es": "",
-		"vehicles": ""
-	},{
-		"id": ,
-		"en": "",
-		"es": "",
+		"id": 16,
+		"en": "Transport to airport",
+		"es": "Transporte a aeropuerto",
 		"vehicles": ""
 	}]
 }
