@@ -651,6 +651,7 @@
 		"reviews": []
 	},{
 		"id": "1923abc",
+		"name": "Random",
 		"location":{
 			"latitude": 6.1743098,
 			"longitude": -75.5684399
@@ -880,6 +881,7 @@
 		"reviews": []
 	},{
 		"id": "12563yuc",
+		"name": "Simple name",
 		"location":{
 			"latitude": 6.2727815,
 			"longitude": -75.5510267
@@ -1066,6 +1068,7 @@
 		"reviews": []
 	},{
 		"id": "123awebc",
+		"name": "Forced name",
 		"location":{
 			"latitude": 6.327374,
 			"longitude": -75.5364952
