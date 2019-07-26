@@ -63,7 +63,7 @@
 	}],
 	"is24_7": false,
 	"vehicles": [{
-		"vehicelType": 1,
+		"vehicleType": 1,
 		"charge": [{
 			"timeUnit": 1,
 			"cost": 200
@@ -78,7 +78,7 @@
 			"cost": 10000
 		}]
 	},{
-		"vehicelType": 2,
+		"vehicleType": 2,
 		"charge": [{
 			"timeUnit": 1,
 			"cost": 100
