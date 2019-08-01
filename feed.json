@@ -64,8 +64,8 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 1,
 				"cost": 200
 			},{
@@ -79,8 +79,8 @@
 				"cost": 10000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 1,
 				"cost": 100
 			},{
@@ -161,8 +161,8 @@
 			}]
 		}],
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 2000
 			},{
@@ -170,8 +170,8 @@
 				"cost": 15000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1000
 			},{
@@ -216,14 +216,14 @@
 			}]
 		}],
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1500
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 800
 			}]
@@ -286,8 +286,8 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 2000
 			},{
@@ -295,8 +295,8 @@
 				"cost": 10000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 4,
 				"cost": 10000
 			}]
@@ -369,8 +369,8 @@
 			}]
 		}],
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 2000
 			},{
@@ -378,8 +378,8 @@
 				"cost": 10000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1000
 			},{
@@ -457,8 +457,8 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 2000
 			},{
@@ -466,8 +466,8 @@
 				"cost": 100000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1000
 			},{
@@ -497,8 +497,8 @@
 		"timeTable":[],
 		"is24_7": true,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 1,
 				"cost": 200
 			},{
@@ -512,8 +512,8 @@
 				"cost": 10000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": []
+			"vehicleType": 2,
+			"timePrices": []
 		}],
 		"services": [],
 		"canBeEdited": false,
@@ -538,8 +538,8 @@
 		"images":[],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 5,
 				"cost": 20000
 			},{
@@ -547,8 +547,8 @@
 				"cost": 5000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 5,
 				"cost": 10000
 			},{
@@ -624,20 +624,20 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 2000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1500
 			}]
 		},{
-			"vehicelType": 3,
-			"charge": [{
+			"vehicleType": 3,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1000
 			}]
@@ -710,8 +710,8 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 4,
-			"charge": [{
+			"vehicleType": 4,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 600
 			},{
@@ -782,8 +782,8 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 3000
 			},{
@@ -791,8 +791,8 @@
 				"cost": 50000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1000
 			},{
@@ -859,8 +859,8 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 2000
 			},{
@@ -868,8 +868,8 @@
 				"cost": 10000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 4,
 				"cost": 5000
 			}]
@@ -941,8 +941,8 @@
 		}],
 		"is24_7": false,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 1,
 				"cost": 200
 			},{
@@ -956,8 +956,8 @@
 				"cost": 10000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 1,
 				"cost": 100
 			},{
@@ -986,8 +986,8 @@
 		"images":[],
 		"is24_7": true,
 		"vehicles": [{
-			"vehicelType": 1,
-			"charge": [{
+			"vehicleType": 1,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 2000
 			},{
@@ -1004,8 +1004,8 @@
 				"cost": 800000
 			}]
 		},{
-			"vehicelType": 2,
-			"charge": [{
+			"vehicleType": 2,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1000
 			},{
@@ -1022,8 +1022,8 @@
 				"cost": 400000
 			}]
 		},{
-			"vehicelType": 3,
-			"charge": [{
+			"vehicleType": 3,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 1000
 			},{
@@ -1040,8 +1040,8 @@
 				"cost": 400000
 			}]
 		},{
-			"vehicelType": 4,
-			"charge": [{
+			"vehicleType": 4,
+			"timePrices": [{
 				"timeUnit": 3,
 				"cost": 3000
 			},{
